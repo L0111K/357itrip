@@ -12,8 +12,7 @@ import javax.mail.internet.MimeMessage;
  * JavaMail Demo
  *
  */
-public class App
-{
+public class App {
 	public static String account = "yky521125@126.com";			//替换为发件人账号
     public static String password = "YAKLISUSFSQPPFSK";					//替换为发件人账号密码
     
